@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         body: Container(
           child: WebView(
-            initialUrl: "http://lsmin1021.pythonanywhere.com/register/",
+            initialUrl: "http://158.247.227.73:8000/login/",
             javascriptMode: JavascriptMode.unrestricted,
           ),
         )
